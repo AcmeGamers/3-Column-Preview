@@ -83,6 +83,7 @@ button {
 .card:nth-child(1) button:hover {
   background: #e28525;
   border: 1px solid #fff;
+  color: #fff;
 }
 .card:nth-child(2) {
   background: #016972;
@@ -94,6 +95,7 @@ button {
 .card:nth-child(2) button:hover {
   background: #016972;
   border: 1px solid #fff;
+  color: #fff;
 }
 .card:nth-child(3) {
   background: #00403f;
@@ -105,6 +107,7 @@ button {
 .card:nth-child(3) button:hover {
   background: #00403f;
   border: 1px solid #fff;
+  color: #fff;
 }
 
 /* Predefined CSS */
